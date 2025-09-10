@@ -11,4 +11,4 @@ Topics covered are:
 3. Stashes
 4. Branches
 5. Github repo
-6. Break for tea
+6. Break for tea or coffee
