@@ -10,3 +10,5 @@ Topics covered are:
 2. Commits
 3. Stashes
 4. Branches
+5. Break for tea
+6. Github basics
